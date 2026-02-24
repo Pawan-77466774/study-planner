@@ -1,0 +1,9 @@
+Study Planner
+Study planner where teacher and student will have different login and access
+
+Pages Discription
+login page: user login/sign in (name, username, email, password)
+Teacher Dashboard: Teacher Dashboard (View classes, Post assignment, Upload notes, View student list)
+Student Dashboard: Student Dashboard (View Assignment, Download Notes, Submit Assignments, View Announcements)
+Assignment Page: Shows Assignment (Assignment details, Deadline, Submit button (Student), View submissions (Teacher))
+Profile Page: View user info, Update profile, Logout
