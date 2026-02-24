@@ -1,0 +1,40 @@
+#Study Planner App
+
+## 🔹 Basic Setup
+- [ ] Create project (Kotlin + Android Studio)
+- [ ] Setup simple navigation
+- [ ] Create basic UI screens
+
+---
+
+## 🔐 Authentication
+- [ ] Login Page (Teacher / Student)
+- [ ] Simple Sign-Up Page
+- [ ] Role-based navigation after login
+
+---
+
+## 👩‍🏫 Teacher Module
+- [ ] Teacher Dashboard
+- [ ] Add Assignment Page
+- [ ] View Assignments List
+
+---
+
+## 👨‍🎓 Student Module
+- [ ] Student Dashboard
+- [ ] View Assignments
+- [ ] Mark Assignment as Completed
+
+---
+
+## 👤 Profile
+- [ ] Profile Page
+- [ ] Logout Function
+
+---
+
+## ✅ Final Checks
+- [ ] Input validation
+- [ ] Basic database (Room) working
+- [ ] Navigation working properly
