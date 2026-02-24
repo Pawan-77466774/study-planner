@@ -160,18 +160,11 @@ The application has been tested for:
 
 ---
 
-## ▶️ How to Run
 
-1. Clone the repository
-2. Open in Android Studio
-3. Sync Gradle files
-4. Run on emulator or Android device
-
----
 
 ## 👨‍💻 Developer
 
-Your Name : Pawan Adhikari
-Course Name : Developing Mobile Application
-Semester : Level 6 Semester 2
-Institution Name : The British College
+* Your Name : Pawan Adhikari
+* Course Name : Developing Mobile Application
+* Semester : Level 6 Semester 2
+* Institution Name : The British College
