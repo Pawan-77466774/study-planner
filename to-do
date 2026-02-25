@@ -1,0 +1,12 @@
+# Study Planner (Teacher + Student)
+
+- [ ] Login Page (Sign in / Sign up: name, username, email, password)
+- [ ] Teacher Dashboard (View classes, Post assignment, Upload notes, View student list)
+- [ ] Student Dashboard (View assignments, Download notes, Submit assignments, View announcements)
+- [ ] Assignment Page (Details, deadline, Student submit, Teacher view submissions)
+- [ ] Profile Page (View info, Update profile, Logout)
+
+## Final
+- [ ] Role-based access working (Teacher vs Student)
+- [ ] Data saving/loading works
+- [ ] Smooth navigation + no crashes
