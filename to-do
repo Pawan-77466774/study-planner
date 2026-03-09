@@ -1,12 +1,12 @@
-#Study Planner (Teacher + Student)
+# Study Planner (Teacher + Student)
 
-- [ ] Login Page (Sign in / Sign up: name, username, email, password)
-- [ ] Teacher Dashboard (View classes, Post assignment, Upload notes, View student list)
-- [ ] Student Dashboard (View assignments, Download notes, Submit assignments, View announcements)
-- [ ] Assignment Page (Details, deadline, Student submit, Teacher view submissions)
-- [ ] Profile Page (View info, Update profile, Logout)
+- [ ] Login Page (Sign in / Sign up: name, username, email, password) — Assigned to: Authentication
+- [ ] Teacher Dashboard (View classes, Post assignment, Upload notes, View student list) — Assigned to: Teacher Module
+- [ ] Student Dashboard (View assignments, Download notes, Submit assignments, View announcements) — Assigned to: Student Module
+- [ ] Assignment Page (Details, deadline, Student submit, Teacher view submissions) — Assigned to: Assignment Module
+- [ ] Profile Page (View info, Update profile, Logout) — Assigned to: User Profile Module
 
 ## Final
-- [ ] Role-based access working (Teacher vs Student)
-- [ ] Data saving/loading works
-- [ ] Smooth navigation + no crashes
+- [ ] Role-based access working (Teacher vs Student) — Assigned to: Authentication Logic
+- [ ] Data saving/loading works — Assigned to: Database / Storage
+- [ ] Smooth navigation + no crashes — Assigned to: App Testing & Navigation
